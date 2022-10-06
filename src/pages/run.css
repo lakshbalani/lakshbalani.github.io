@@ -1,0 +1,75 @@
+.r_back {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+}
+
+.r_box {
+    position: relative;
+    height: 14vh;
+    width:100vw;
+    color: yellow;
+    font-size: 5vw;
+    font-weight: 1000;
+    text-align: center;
+    font-style: italic;
+}
+.r_box1 {
+    position: relative;
+    height: 60vh;
+    width:100vw;
+}
+
+.nav{
+    margin-left: auto;
+}
+
+.r_h1{
+    position: sticky;
+    padding-bottom: 14vh; 
+    background-color: black;
+}
+
+.r_x1{
+    position: relative;
+    background-image: url("loose.jpg");
+    background-color: #cccccc;
+    /* filter: grayscale(60%);
+    opacity: 0.5; */
+}
+
+.r_x2{
+    position: relative;
+    background-image: url("https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMGd5bXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-color: #cccccc;
+    /* filter: grayscale(60%);
+    opacity: 0.5; */
+}
+.r1{
+    position: relative;
+    margin-top: 15vh;
+    width:100vw;
+    color: yellow;
+    font-size: 5vw;
+    font-weight: 1000;
+    text-align: center;
+    opacity: 1 !important;
+    margin-left: -25vw;
+    filter: grayscale(0%) !important;
+}
+.rb1{
+    margin-left: 20vw;
+    /* background-color: white !important; */
+}
+.logo{
+    color: white;
+}
+.slick-dots li button:before {
+    color:white !important;
+}
+.cont{
+    text-align: center;
+    color: white;
+}
